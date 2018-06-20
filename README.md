@@ -4,11 +4,11 @@
 
 Topic demoestrate in this application
 ---
-##### makeFile, bundler, cocaPods
-##### URLSession
-##### API Router
-##### NetworkLayer and DataLayer
-##### Coredata
+##### * makeFile, bundler, cocaPods
+##### * URLSession
+##### * API Router
+##### * NetworkLayer and DataLayer
+##### * Coredata
 
 
 ```ruby
