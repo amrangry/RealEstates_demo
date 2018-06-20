@@ -15,7 +15,7 @@ Topic demoestrate in this application
 A picture says a thousand words
 ```
 
-![Alt text](https://github.com/amrangry/backbase/blob/master/sample.gif?raw=true "sample")
+![Alt text](https://github.com/amrangry/RealEstates_demo/blob/master/project_demo_gif.gif?raw=true "sample")
 
 
 Environment
@@ -44,9 +44,9 @@ Distributed under the MIT License.
 
 Author
 ---
-```
-If you wish to contact me
+#### If you wish to contact me
 
-WebSite: [a link](https://amrangry.github.io/) 
+WebSite: [a link](https://amrangry.github.io/)
+
 Email : amr.elghadban@gmail.com
-```
+
