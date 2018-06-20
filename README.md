@@ -1,6 +1,8 @@
 # RealEstates_demo
 
-## Demo for displaying Real Estates the utilies webservice that retrive realestatesand cache it in persistancxe store ##
+
+## Demo for displaying Real Estates the utilies webservice that retrive realestatesand cache it in persistancxe store
+
 
 Topic demoestrate in this application
 ---
@@ -11,9 +13,8 @@ Topic demoestrate in this application
 ##### * Coredata
 
 
-```ruby
-A picture says a thousand words
-```
+# Picture says a thousand words
+---
 
 ![Alt text](https://github.com/amrangry/RealEstates_demo/blob/master/project_demo_gif.gif?raw=true "sample")
 
@@ -27,7 +28,8 @@ Xcode 9.4.1
 Swift 4.1
 ```
 
-### Prerequisites
+Prerequisites
+---
 You need run makefile do that follow the following 
 
 ```
