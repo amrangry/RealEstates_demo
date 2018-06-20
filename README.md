@@ -4,11 +4,11 @@
 
 Topic demoestrate in this application
 ---
-### makeFile, bundler, cocaPods ###
-### URLSession ###
-### API Router ###
-### NetworkLayer and DataLayer ###
-### Coredata ###
+##### makeFile, bundler, cocaPods
+##### URLSession
+##### API Router
+##### NetworkLayer and DataLayer
+##### Coredata
 
 
 ```ruby
@@ -46,7 +46,7 @@ Author
 ---
 #### If you wish to contact me
 
-WebSite: [a link](https://amrangry.github.io/)
+WebSite: [https://amrangry.github.io/](https://amrangry.github.io/)
 
 Email : amr.elghadban@gmail.com
 
