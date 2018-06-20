@@ -44,5 +44,9 @@ Distributed under the MIT License.
 
 Author
 ---
-https://amrangry.github.io/
-If you wish to contact me, email : amr.elghadban@gmail.com
+```
+If you wish to contact me
+
+WebSite: [a link](https://amrangry.github.io/) 
+Email : amr.elghadban@gmail.com
+```
